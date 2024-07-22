@@ -1,8 +1,5 @@
-# My Qiita posts
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/axoloto210/posts.svg)](http://qiita.com/axoloto210)
-# My Qiita contributions
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/axoloto210/contributions.svg)](http://qiita.com/axoloto210)
-# My Qiita followers
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/axoloto210/followers.svg)](http://qiita.com/axoloto210)
 
 <!--
