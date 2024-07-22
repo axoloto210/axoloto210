@@ -4,7 +4,7 @@
 [![Articles](https://badgen.org/img/zenn/axoloto210/articles?style=flat)](https://zenn.dev/axoloto210)
 [![Scraps](https://badgen.org/img/zenn/axoloto210/scraps?style=flat)](https://zenn.dev/axoloto210?tab=scraps)
 
-![](https://komarev.com/ghpvc/?username=axoloto210&color=#99d9ea)
+![](https://komarev.com/ghpvc/?username=axoloto210&color=99d9ea)
 
 <!--
 **axoloto210/axoloto210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
