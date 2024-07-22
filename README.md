@@ -2,6 +2,8 @@
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/axoloto210/contributions.svg)](http://qiita.com/axoloto210)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/axoloto210/followers.svg)](http://qiita.com/axoloto210)
 
+![](https://komarev.com/ghpvc/?username=axoloto210)
+
 <!--
 **axoloto210/axoloto210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
